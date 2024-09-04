@@ -1,4 +1,4 @@
-📝 #Notas Simples
+# 📝 Notas Simples
 
 
 Notas Simples é um aplicativo básico de bloco de notas desenvolvido em Flutter. Este é o meu primeiro projeto na linguagem, criado com o objetivo de estudar e aprender os fundamentos do Flutter.
